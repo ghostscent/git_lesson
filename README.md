@@ -1,3 +1,3 @@
 # Example
 
-Just an example of a repository.
+Just an example of a repository!
